@@ -1,6 +1,6 @@
 package com.surya.quizapp.service;
 
-import com.surya.quizapp.Question;
+import com.surya.quizapp.model.Question;
 import com.surya.quizapp.dao.QuestionDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

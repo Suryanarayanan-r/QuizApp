@@ -1,6 +1,6 @@
 package com.surya.quizapp.controller;
 
-import com.surya.quizapp.Question;
+import com.surya.quizapp.model.Question;
 import com.surya.quizapp.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
